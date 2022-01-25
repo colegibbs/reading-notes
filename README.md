@@ -37,6 +37,6 @@ The best part about text editors is that There are so many to choose from that c
 
 Command lines are used in the terminal with or instead of a GUI. The terminal is very efficent because it doesn't require that you move your hands from the keyboard. Commands are prompts that tell your computer what to do with a specified item. Here is a [cheatsheet](https://www.git-tower.com/blog/command-line-cheat-sheet/) for basic terminal commands!
 
-
+*lkajsdfla
 
 
