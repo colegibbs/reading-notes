@@ -8,4 +8,4 @@ Welcome visitors! My name is Cole Gibs I'd like to personally welcome you to my 
 
 [Reading 01](https://colegibbs.github.io/reading-notes/growth-mindset.md)
 
-[Reading 01](https://colegibbs.github.io/reading-notes/the-coders-computer.md)
+[Reading 02](https://colegibbs.github.io/reading-notes/the-coders-computer.md)
