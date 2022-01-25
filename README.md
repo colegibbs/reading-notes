@@ -8,6 +8,7 @@ A growth mindset makes you, your work, family, friends, and exerince better. Wha
 1. Humility
 2. Perseverance
 3. The ability to put the team/family/group before yourself without sacrificing yourself(this will lead to points 1 and 2.),<br>
+
 but it can become difficult to keep such a mindset day in and day out. 
 
 How can this be done? It's a good idea to have these *reminders* to keep you on the path:
