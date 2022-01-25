@@ -15,12 +15,12 @@ but it can become difficult to keep such a mindset day in and day out.
 
 How can this be done? It's a good idea to have these *reminders* to keep you on the path:
 
-'''- Creating something good from hard work is good for you, your team, and family both now and in the futre
+```- Creating something good from hard work is good for you, your team, and family both now and in the futre
 - You can if you persist
-- You don't know how to do this **YET**, you can't understand this **YET**'''
+- You don't know how to do this **YET**, you can't understand this **YET**```
 
 What you don't do can be just as important as what you do. In that spirit here are some things you should not do:
 
-'''- ~Get angry with team members for criticism~
+```- ~Get angry with team members for criticism~
 - ~Expect everything to work on the first try~
-- ~Break computer and other expensive electronics in a rage~'''
+- ~Break computer and other expensive electronics in a rage~```
