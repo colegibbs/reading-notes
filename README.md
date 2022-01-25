@@ -1,3 +1,4 @@
+title: "Reading Notes"
 # Welcome to Cole's Page
 
 ![Picture of Cole! Lucky you!](/profile-photo.jpeg)
