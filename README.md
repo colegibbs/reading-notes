@@ -21,9 +21,9 @@ How can this be done? It's a good idea to have these *reminders* to keep you on 
 ```
 What you don't do can be just as important as what you do. In that spirit here are some things you should not do:
 ```
-- ~Get angry with team members for criticism~
-- ~Expect everything to work on the first try~
-- ~Break computer and other expensive electronics in a rage~
+- Get angry with team members for criticism
+- Expect everything to work on the first try
+- Break computer and other expensive electronics in a rage
 ```
 
 ## The Coders Computer
