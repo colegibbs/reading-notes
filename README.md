@@ -7,7 +7,7 @@ Welcome visitors! My name is Cole Gibs I'd like to personally welcome you to my 
 A growth mindset makes you, your work, family, friends, and exerince better. What is a growth mindset though. In my words a growth mind set is the state of my that allows you to make choices that lead to a better and more functional you. A few major factors of a growth mindset in my opinion are:
 1. Humility
 2. Perseverance
-3. The ability to put the team/family/group before yourself without sacrificing yourself(this will lead to points 1 and 2.),
+3. The ability to put the team/family/group before yourself without sacrificing yourself(this will lead to points 1 and 2.),<br>
 but it can become difficult to keep such a mindset day in and day out. 
 
 How can this be done? It's a good idea to have these *reminders* to keep you on the path:
