@@ -6,8 +6,6 @@ Welcome visitors! My name is Cole Gibs I'd like to personally welcome you to my 
 
 ## Table of Contents
 
-[Reading 01](https://colegibbs.github.io/reading-notes/growth-mindset.md)
+[Reading 01 - Growth Mindset](https://colegibbs.github.io/reading-notes/growth-mindset.md)
 
-[Reading 02](https://colegibbs.github.io/reading-notes/the-coders-computer.md)
-
-[Lab 03 Stretch Goal](https://colegibbs.github.io/reading-notes/lab-03-stretch-goal)
+[Reading 02 - The Coders Computer](https://colegibbs.github.io/reading-notes/the-coders-computer.md)
