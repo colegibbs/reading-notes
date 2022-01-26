@@ -11,3 +11,5 @@ Welcome visitors! My name is Cole Gibs I'd like to personally welcome you to my 
 [Reading 02 - The Coders Computer](https://colegibbs.github.io/reading-notes/the-coders-computer.md)
 
 [Reading 03 - Revisions and the Cloud](https://colegibbs.github.io/reading-notes/revisions-cloud-read03.md)
+
+[Reading 04 - Structuring the Web with html](https://colegibbs.github.io/reading-notes/html-web-structure-read04.md)
