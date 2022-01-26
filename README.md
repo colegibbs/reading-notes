@@ -9,3 +9,5 @@ Welcome visitors! My name is Cole Gibs I'd like to personally welcome you to my 
 [Reading 01 - Growth Mindset](https://colegibbs.github.io/reading-notes/growth-mindset.md)
 
 [Reading 02 - The Coders Computer](https://colegibbs.github.io/reading-notes/the-coders-computer.md)
+
+[Reading 03 - Revisions and the Cloud](https://colegibbs.github.io/reading-notes/revisions-cloud-read03.md)
