@@ -5,6 +5,7 @@ Version control allows you to safe previous version of your while you continue t
 First you have to install and set up Git which I've already done. It requires that you enter a few different commands in the terminal to make a some changes.
 
 In order to commit the changes you've made to your files there are a few steps you must follow. It's best remembered by the lin A-C-P or Add-Commit-Push.
+
 1. `git add fileName`
 2. `git commit -m "message"`
 3. `git push`
