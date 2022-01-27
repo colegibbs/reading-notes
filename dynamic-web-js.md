@@ -1,17 +1,17 @@
 # Dynamic Web Pages with JavaScript
 
-JavaScript is a very dynamic versatile language that has many uses. Do not confuse it with the other language called Java. Even though the names are similar they are very different. 
+JavaScript is a very dynamic versatile language that has many uses. Do not confuse it with the other language called Java. Even though the names are similar they are very different.
 
 JavaScript uses function and variables to execute actions. It works with html to give and recive information. If something is being done with the information, JavaScript is involved.
 
-Use `let` and `const` to declare variables. As a general rule, if the variable is not going to change, define it with `const`. If it is going to change, define it with `let`. Variable names are also called identifiers. When name identifiers, use lower camel case and don't use keywords. Remember that JS identifiers are case sensitive. In Js `=` means assignment not equal to. 
+Use `let` and `const` to declare variables. As a general rule, if the variable is not going to change, define it with `const`. If it is going to change, define it with `let`. Variable names are also called identifiers. When name identifiers, use lower camel case and don't use keywords. Remember that JS identifiers are case sensitive. In Js `=` means assignment not equal to.
 
 Some JS data types:
 
 1. Sring `"text inside"`
 2. numbers `4`
 
-You can declare a variable with `unidentified` if you don't want it to have a value. 
+You can declare a variable with `unidentified` if you don't want it to have a value.
 
 All computers:
 

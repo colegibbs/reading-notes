@@ -13,3 +13,7 @@ Welcome visitors! My name is Cole Gibs I'd like to personally welcome you to my 
 [Reading 03 - Revisions and the Cloud](https://colegibbs.github.io/reading-notes/revisions-cloud-read03.md)
 
 [Reading 04 - Structuring the Web with html](https://colegibbs.github.io/reading-notes/html-web-structure-read04.md)
+
+[Reading 05 - Designing the Web with css](https://colegibbs.github.io/reading-notes/design-web-pages-css-read05.md)
+
+[Reading 06 - The Dynamic Web with JavaScript](https://colegibbs.github.io/reading-notes/dynamic-web-js.md)
