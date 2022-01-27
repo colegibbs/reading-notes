@@ -35,4 +35,4 @@ CSS stylesheet types have an order of operations or authority:
 2. External and Internal CSS
 3. Browser Default
 
-The `color` property will change the color of text. There are a few differnt ways to select a color. Reset CSS is a file that sets css properties to a certain value so the website can look the same across browsers. 
+The `color` property will change the color of text. There are a few differnt ways to select a color. Reset CSS is a file that sets css properties to a certain value so the website can look the same across browsers.
