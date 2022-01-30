@@ -17,3 +17,7 @@ Welcome visitors! My name is Cole Gibs I'd like to personally welcome you to my 
 [Reading 05 - Designing the Web with css](https://colegibbs.github.io/reading-notes/design-web-pages-css-read05.md)
 
 [Reading 06 - The Dynamic Web with JavaScript](https://colegibbs.github.io/reading-notes/dynamic-web-js.md)
+
+[Reading 07 - Programming with JavaScript](https://colegibbs.github.io/reading-notes/programming-with-js-read07.md)
+
+[Reading 08 - Operators and Loops](https://colegibbs.github.io/reading-notes/operators-loops-read08.md)
